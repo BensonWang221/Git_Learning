@@ -1,4 +1,6 @@
 # Git_Learning
+![image](https://user-images.githubusercontent.com/65100398/152174761-1664b780-d31e-4798-a97e-f1caea1f05e1.png)
+
 # 基本指令
 编辑区(增删改）->(git add) 暂存区 ->(git commit -m "comment") 本地仓库
 
