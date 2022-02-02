@@ -5,6 +5,7 @@
 编辑区(增删改）->(git add) 暂存区 ->(git commit -m "comment") 本地仓库
 
 查看commit记录: git log [option]
+可在~/.bashrc中alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'再source ~/.bashrc
 
 代码回退: git reset --hard commitId
 
