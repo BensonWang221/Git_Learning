@@ -10,7 +10,7 @@
 
 设置git不管理哪些文件: 创建.gitignore文件，在此文件中写入不需要git管理的文件名
 
-#分支
+# 分支
 查看分支: git branch
 
 创建分支: git branch 分支名
