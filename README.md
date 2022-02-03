@@ -55,3 +55,6 @@
     拉取命令: git pull [remote name] [branch name]
         将远端仓库的更改都拉到本地并自动进行合并，等同于fetch + merge
         如果不指定remote name和branch name，则抓取所有病更新当前分支
+
+
+解决合并冲突: 再git push之前，先git pull拉取，在本地merge后再提交
